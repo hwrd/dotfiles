@@ -1,0 +1,25 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"copy_with_empty_selection": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Menlo",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"MagiclessQuotes",
+		"Vintage"
+	],
+	"index_files": true,
+	"rulers":
+	[
+		79
+	],
+	"tab_size": 2,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

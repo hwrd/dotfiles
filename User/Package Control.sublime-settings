@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"Colorsublime",
+		"DashDoc",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"MagiclessQuotes",
+		"MultiEditUtils",
+		"Package Control",
+		"Pretty JSON",
+		"Ruby Slim",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Tag",
+		"Theme - Afterglow",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
