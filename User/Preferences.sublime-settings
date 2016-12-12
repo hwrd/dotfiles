@@ -1,7 +1,7 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
@@ -9,6 +9,7 @@
 	"ignored_packages":
 	[
 		"MagiclessQuotes",
+		"Tag",
 		"Vintage"
 	],
 	"index_files": true,
